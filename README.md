@@ -1,3 +1,16 @@
+I made this website while following a React course, it displays recently launched movies on its homepage, giving the user the ability to access more information like the sinopsis and rating of each movie. It's also possible to save a movie to your list, which is stored at the browser using the LocalStorage property. All the information is provided by themoviedb.org's API 
+
+I also hosted this project at Netlify, it can be found at https://artur-filmaria.netlify.app/
+
+#Screenshots
+
+![image](https://github.com/arturburatto/filmaria/assets/72110904/56b19c04-cec0-4009-9f63-9e048af22aad)
+
+![image](https://github.com/arturburatto/filmaria/assets/72110904/159742a5-6a99-45c7-b67b-193ebee31407)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
