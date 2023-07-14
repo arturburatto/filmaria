@@ -2,7 +2,7 @@ I made this website while following a React course, it displays recently launche
 
 I also hosted this project at Netlify, it can be found at https://artur-filmaria.netlify.app/
 
-#Screenshots
+# Screenshots
 
 ![image](https://github.com/arturburatto/filmaria/assets/72110904/56b19c04-cec0-4009-9f63-9e048af22aad)
 
